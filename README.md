@@ -110,19 +110,64 @@ https://www.figma.com/design/UfCpVMiMiLY7nouCd5hnPw/Redise%C3%B1o-UX-UI-%E2%80%9
 
 ## 📸 Vista previa
 
-Aquí puedes agregar capturas de pantalla del proyecto.
 
-![Inicio](assets/portada.png)
+## 🖥️ Portada
 
-![Wireframes](assets/wireframes.png)
+Vista principal del rediseño con una propuesta visual moderna, enfocada en mejorar la accesibilidad, la navegación y la identidad digital de la fundación.
 
-![Design System](assets/design-system.png)
+<p align="center">
+  <img src="assets/portada.png" width="900"/>
+</p>
 
-![Mockups](assets/mockups.png)
+---
 
-![Prototipo](assets/prototipo.png)
+## 📝 Wireframes
 
-![Pruebas-UX](assets/pruebas.png)
+Diseño de baja fidelidad utilizado para definir la estructura de las pantallas, la distribución del contenido y el flujo de navegación antes del diseño visual.
+
+<p align="center">
+  <img src="assets/wareframes.png" width="900"/>
+</p>
+
+---
+
+## 🎨 Design System
+
+Sistema de diseño creado para mantener consistencia visual en toda la plataforma.
+
+Incluye:
+
+- Paleta de colores
+- Tipografía
+- Botones
+- Componentes
+- Cards
+- Navbar
+- Footer
+
+<p align="center">
+  <img src="assets/design-system.png" width="900"/>
+</p>
+
+---
+
+## 📱 Pruebas-UX
+
+Adaptación del diseño para escritorio, tablet y dispositivos móviles.
+
+<p align="center">
+  <img src="assets/pruebas-ux.png" width="900"/>
+</p>
+
+---
+
+## 🔗 Prototipo Interactivo
+
+El prototipo fue desarrollado en Figma para validar la experiencia de usuario y la navegación entre pantallas.
+
+<p align="center">
+  <img src="assets/prototipo.png" width="900"/>
+</p>
 
 ---
 
@@ -136,4 +181,7 @@ https://portfolio-delta-one-48.vercel.app
 💼 LinkedIn:
 https://linkedin.com/in/olgalopezdelgadillo
 
-📧 olguitabonaparty@gmail.com
+📧 Correo:
+olguitabonaparty@gmail.com
+
+
